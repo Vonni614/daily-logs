@@ -1,0 +1,5 @@
+So yesterday i did some pair programming with Connor, where we discussed some new ways to improve our projects, and i`ve spent some time on my project and after that i`ve been reading and watching about mysql databases 
+and how they can be used in web development. 
+
+my plan for today is to continue working on databases and maybe to we will tr use it in the projects,
+because all my application details are stored in local storage. 

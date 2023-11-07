@@ -1,0 +1,8 @@
+So yesterday i`ve spent most of the day finishing my project in python, especially 
+setting up UI for the programme.
+
+My plan for today is to pay attention to all my reflections and documentations. As well I would 
+spend some time practicing my skills on CodeWars.
+
+I had only one blocker yesterday, which was logical issue with my code, that i wasn`t able 
+to fix for several hours. Everything is sorted for now

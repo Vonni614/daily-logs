@@ -1,0 +1,6 @@
+Yesterday I`ve watched some Youtube Python videos just to refresh the knowledge:
+https://youtu.be/kqtD5dpn9C8?si=zVCElHQtY7X3LC1g
+https://youtu.be/YXPyB4XeYLA?si=QKKc-j1TJ8P06BPk
+
+And as well I`ve made simple console programme that takes user input for width and height and then calculates the estimated price.
+No blockers so far. 

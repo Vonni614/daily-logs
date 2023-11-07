@@ -1,0 +1,10 @@
+SO yesterday I`ve been mostly watching and reading tutorials about
+HTML, CSS and JAvaScript and how to use them to create a web apllication.
+As well, I had a look of what I can do as part of my project, and created 
+task list of what do i need to learn to be able to do it.
+
+My plan for today is to visit guest lecture and start working on my web application 
+and read more about using python in web development. And practise my python skills 
+using CodeWars. But most of the day will be dedicated to my projected. 
+
+No blockers so far.

@@ -1,0 +1,6 @@
+So basically yesterday i wasn`t able to do much practising, but i`ve watched a lot of tutorials and
+had a look how the basic wed applications are made, and what tools people are using for them. 
+
+Today, I'm planning to work on my Personal Development Plan, attend guest lecture as well,  and keep practicing what I've learned. I will continue working on my project. 
+I'm also going to give Java a shot instead of Python  
+cause java seems like it might be a better fit for the project rather than python.

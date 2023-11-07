@@ -1,0 +1,7 @@
+So basically yesterday i have spent most of the day trying to get more knowledge about user interfaces in python to fit it into my project,
+.So i`ve been reading libraries documentation and tried to adjust it into 
+my programme through trail and error. 
+
+My plan for today is to finish my Graphic Interface completely and try to add some new features, and after that i will have a look at agile badge. 
+
+No blockers now for me so far  
